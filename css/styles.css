@@ -1,0 +1,51 @@
+nav {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(160, 229, 253);
+    width: 1110px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding-right: 190px;
+}
+
+h1 span {
+    font-style: italic;
+}
+
+#image1 {
+    height: 500px;
+    width: auto;
+}
+
+p ul {
+    width: 800px;
+}
+figure {
+    position: relative;
+}
+
+figure img {
+    width: 270px;
+    height: auto;
+}
+
+.grid-div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+}
+
+figcaption {;}
+
+.img-description, .bold-letters {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.ol-li_text  {
+    font-weight: 100;
+    font-size: 16px;
+}
